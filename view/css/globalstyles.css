@@ -1,0 +1,22 @@
+/* 
+    Created on : 22-nov-2020, 11:46:22
+    Author     : Alberto
+*/
+
+.bgmain{
+     
+    background-image: url('../imgs/bg01.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+.bgsilver{
+     
+    background-image: url('../imgs/bg04.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}

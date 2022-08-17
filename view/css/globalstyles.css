@@ -23,37 +23,53 @@
 
 /* BODY SCROLLBAR */
 body::-webkit-scrollbar {
+    
   width: 10px;
   height: 1%;
+  
 }
 
 body::-webkit-scrollbar-track {
+    
   box-shadow: inset 0 0 5px darkgray; 
+  
 }
 
 body::-webkit-scrollbar-thumb {
+    
   background: lightgray; 
   border-radius: 30px;
+  
 }
 
 body::-webkit-scrollbar-thumb:hover {
+    
   background: darkgray; 
+  
 }
 
 /* DIV SCROLLBAR */
 div::-webkit-scrollbar {
+    
   width: 1%;
+  
 }
 
 div::-webkit-scrollbar-track {
+    
   box-shadow: inset 0 0 5px darkgray; 
+  
 }
  
 div::-webkit-scrollbar-thumb {
+    
   background: gray; 
   border-radius: 3%;
+  
 }
 
 div::-webkit-scrollbar-thumb:hover {
+    
   background: black; 
+  
 }
